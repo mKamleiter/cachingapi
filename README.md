@@ -1,6 +1,7 @@
 # cachingapi
-This is a simple API which caches infromation for Serverinstallation.
-
+This is a simple API which caches infromation from differnet server.
+It uses a sqlite database to persist the data.
+You can use timestamps to query servers after their creation timestamp.
 
 Examples:
 
